@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my_first_react_native_app",
-    "slug": "my_first_react_native_app",
+    "name": "filter_and_modal",
+    "slug": "filter_and_modal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
